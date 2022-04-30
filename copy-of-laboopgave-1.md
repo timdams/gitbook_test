@@ -1,4 +1,4 @@
-# LaboOpgave 1
+# Copy of LaboOpgave 1
 
 We gaan nu een titratie maken. Hou je pipetten in pippo..pippet...neen, petto!
 
@@ -12,6 +12,8 @@ Ben je er klaar voor?\
 \_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_\_
 
 Hier boven moest je dus je schrijven he!
+
+
 {% endtab %}
 
 {% tab title="Werkwijze" %}
@@ -21,9 +23,9 @@ Hier boven moest je dus je schrijven he!
 {% endtab %}
 
 {% tab title="Conclusie" %}
-Wat zijn je bevinden?
+Wat zijn je bevindingen?
 
-![](<.gitbook/assets/slide\_1 (2).jpg>)
+
 
 
 {% endtab %}
